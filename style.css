@@ -1,7 +1,13 @@
 body {
     margin:0;
-    background: red;}
+    background: #fff;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 img {
     height: 300px;
+    margin: 10px;
 }
