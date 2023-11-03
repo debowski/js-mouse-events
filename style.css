@@ -9,5 +9,13 @@ body {
 
 img {
     height: 300px;
-    margin: 10px;
 }
+/* -----  metoda 3 --------*/
+#obraz3:hover {
+    content: url("img/abw.jpg");
+} 
+
+/* tu zmienia się obrazek tylko w czasie kliknięcia */
+#obraz3:active {
+    content: url("img/a.jpg");
+} 
