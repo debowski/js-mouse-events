@@ -1,4 +1,6 @@
-/** @type {HTMLElement} */
+
+/** @type {HTMLElement} */ /*podanie typu dla zmiennej żeby działało intelisense*/
+
 const img1 = document.querySelector("#obraz1")
 const img2 = document.querySelector("#obraz2")
 
